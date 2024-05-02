@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'bundler'
   s.add_development_dependency 'minitest', '~> 5.6'
   s.add_development_dependency 'rake', '~> 12', '>= 12.3.3'
-  s.add_development_dependency 'rdoc', '~> 3.12'
+  s.add_development_dependency 'rdoc', '~> 6.6'
 
   s.homepage = "http://github.com/marcotc/rack-brotli/"
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "rack-brotli", "--main", "README"]
